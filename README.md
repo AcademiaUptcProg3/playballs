@@ -15,6 +15,8 @@ Jdk 17
 
 - Realizar modificaciones que mueva n elementos de tal manera que queden rebotando, unos de manera horizontal y otros de manera vertical.
 
+- El tipo de elemento seran selecionados de manera a aleatoria, entre: circulo, cuadrado, imagen y texto.   
+
 - La posición inicial de cada elemento debera ser aleatorio dentro del área del componente gráfico.
 
 - El movimiento horizontal o vertical, se definirá también de manera aleatoria.
